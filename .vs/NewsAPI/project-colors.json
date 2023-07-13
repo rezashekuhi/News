@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d7ecc61-75b5-485a-9cd9-08232fc4a137": {
+      "ProjectGuid": "5d7ecc61-75b5-485a-9cd9-08232fc4a137",
+      "DisplayName": "NewsAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
